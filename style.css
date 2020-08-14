@@ -1,0 +1,141 @@
+
+body {
+  background-color: bisque;
+  margin: 0 auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+/*Header*/
+h1 {
+  background-color: forestgreen;
+  text-align: center;
+  overflow: auto;
+  height: 100%;
+}
+
+header {
+  height: 100px;
+  background-color: grey;
+}
+
+header nav {
+  width: 960px;
+  margin: auto;
+}
+header img {
+  margin-top: 15px;
+  float: left;
+}
+header ul {
+  float: left;
+}
+header li {
+  display: inline;
+  line-height: 100px;
+}
+header li:first-child{
+  margin-left: 30px;
+}
+
+header ul li {
+  background-color: grey;
+  padding: 10px;
+  margin: 10px;
+}
+header li {
+  margin-left: 85px;
+}
+header a {
+  text-decoration: none;
+  color: antiquewhite;
+  font-size: 20px;
+}
+
+/*Main*/
+
+main {
+  width: 960px;
+  margin: auto;
+}
+main img {
+  margin-top: 30px;
+}
+ul {
+  list-style-type: none;
+}
+ ul li:first-child {
+  margin-left: 0px;
+}
+main ul li {
+ float: left;
+ margin: 30px;
+}
+ main article {
+  width: 50%;
+  float: right;
+  margin-top: 30px;
+} 
+main h2 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 30px;
+}
+main p{
+  font-style: italic;
+  margin-left: 30px;
+  margin-top: 5px;
+  line-height: 20px;
+  height: 334px;
+  overflow: auto;
+}
+main div {
+  background-color: #111;
+  color: #fff;
+  display: inline-block;
+  margin-left: 30px;
+  margin-top: 10px;
+  padding: 10px 30px;
+  border-radius: 5px;
+}
+main div:hover {
+  background-color: chartreuse;
+  transition: 350ms;
+}
+footer {
+  height: 125px;
+  background-color: gray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
