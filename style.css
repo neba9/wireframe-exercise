@@ -62,7 +62,7 @@ main img {
 ul {
   list-style-type: none;
 }
- ul li:first-child {
+ main li:first-child {
   margin-left: 0px;
 }
 main ul li {
